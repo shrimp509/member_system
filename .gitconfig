@@ -1,0 +1,8 @@
+[user]
+	name = Sam
+	email = shrimp509@hotmail.com
+[core]
+	editor = vim
+	excludesfile = /Users/samho/.gitignore_global
+[merge]
+	tool = vimdiff
